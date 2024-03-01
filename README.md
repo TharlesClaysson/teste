@@ -2,7 +2,7 @@
 
 Aqui descrevo informações importantes pertinentes ao meu projeto'
 
-## Subtitulo 
+## Subtitulo
 
 - Tópico 1: nfjiernjirnerjwc
 - Tópico 2: cdmnjwdc jhgbdc wh
